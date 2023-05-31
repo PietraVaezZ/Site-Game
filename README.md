@@ -12,7 +12,7 @@ de posições dos itens, textos, botões e assim podendo fazer alterações caso
 
 <p> Após finalizado fui finalizar a ideia do Design de Interface com cores então saiu o prototipo de alta fidelidade. </p>
 
-<img src="https://cdn.discordapp.com/attachments/1052396270498615386/1113565100398354513/Prototipos_de_baixa_e_alta_fidelidade_page-0002.jpg" alt="">
+<img src="https://cdn.discordapp.com/attachments/1052396270498615386/1113576226817310730/alta_fidelidade.jpg" alt="">
 
 <h5>Seguindo os prototipos eu ultilizei o conhecimento do curso e desenvolvi o mesmo com as tecnologias abaixo 👇 :</h5>
 
@@ -36,5 +36,5 @@ de posições dos itens, textos, botões e assim podendo fazer alterações caso
 <h4>Contatos:</h4>
 
 <p> Email: Pietravaezdasilva@gmai.com</p>
+<a href="https://www.linkedin.com/in/pietravaez/" style="font-size: 20px;">linkedin</a>
 
-<a href="https://www.linkedin.com/in/pietravaez/"> <h5> linkedin </h5> </a>
