@@ -1,0 +1,240 @@
+nav{
+    display: flex;
+    height: 75px;
+    width: 100%;
+    font-size: 100%;
+}
+
+#textoNavbar{
+    display: flex;
+    cursor: pointer;
+    margin-left: 300px;
+    font-size: 18px;
+}
+
+.form-inline {
+    display: flex;
+    justify-content: center;
+    margin-left: 250px;
+    
+  }
+  
+  .form-inline .form-control,
+  .form-inline .btn {
+    margin: 0 5px;
+  }
+  
+body{
+    background-color: #000000;
+    color: white;
+}
+
+  .home{
+    width: 100%;
+    background: linear-gradient(180deg, #000000 0%, #1400FF 63.54%, rgba(0, 0, 0, 0) 100%);
+  
+  }
+  
+  .jumbotro h1{
+    display: flex;
+    width: 200px;
+    height: 45px;
+    border-radius: 20px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.66) 0%, rgba(0, 0, 0, 0.66) 100%);
+    position: absolute;
+    top: 19%;
+    left: 68%;
+    align-items: center;
+    padding-left: 20px;
+    
+
+}
+
+.jumbotro p{
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.66) 0%, rgba(0, 0, 0, 0.66) 100%);
+    border-radius: 50px;
+    position: absolute;
+    display: flex;
+    top: 28%;
+    left: 60%;
+    width: 450px;
+    height: 269px;
+    padding: 20px;
+    align-items: center;
+    font-size: medium;
+
+}
+
+.jumbotro a{
+    position: absolute;
+    display: flex;
+    background:linear-gradient(180deg, rgba(0, 0, 0, 0.66) 0%, rgba(0, 0, 0, 0.66) 100%);
+    border-radius: 30px;
+    top: 69%;
+    left: 1090px;
+    width: 100px;
+    height: 50px;
+    color: white;
+    align-items: center;
+    padding: 15px;
+    border: none;
+    cursor: pointer;
+
+}
+
+.home img{
+    left: 50px;
+    padding: 4%;
+    border-radius: 80px;
+  }
+
+  .services{
+    background: rgba(20, 0, 255, 0.3);
+    border-radius: 100px;
+    width: 600px;
+    height: 125px;
+    top: 95%;
+    left: 29%;
+    position: absolute;
+    display: flex;
+    color: white;
+  }
+
+  .services h2{
+    width: 600px;
+    height: 100px;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: -30%;
+    left: 29%;
+    font-size: 20px;
+    font-weight: bold;
+   
+  }
+
+  .services li{
+    display: flex;
+    position: relative;
+    align-items: center;
+    width: 600px;
+    height: 35px;
+    left: 29%;
+    top: 25px;
+    font-size: 13px;
+  
+  }
+  
+  .services-list{
+    margin-top: 20%;
+    position: absolute;
+    list-style-type: none;
+    padding-left: 40px;
+
+  }
+
+  .loja h2{
+    margin-top: 50%;
+    text-align: center;
+    font-weight: bold;
+
+  }
+
+  .loja h3{
+    margin-top: 10%;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+    
+  }
+  
+  .game-list{
+    margin-top: 5%;
+    position: absolute;
+    list-style-type: none;
+    padding-left: 40px;
+  }
+
+.hw{
+  margin-top: 25%;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 20px;
+  
+}
+
+  .Hardware-list{
+    margin-top: 5%;
+    position: absolute;
+    list-style-type: none;
+    padding-left: 40px;
+  }
+
+  .pf{
+    margin-top: 25%;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+    
+  }
+
+  .Periféricos-list{
+    margin-top: 5%;
+    position: absolute;
+    list-style-type: none;
+    padding-left: 40px;
+
+  }
+  .Contatos{
+    background: linear-gradient(180deg, #000000 0%, #1400FF 74.48%, rgba(0, 0, 0, 0) 100%);
+    margin-top: -15%;
+  }
+
+  .Contatos h2{
+    text-align: center;
+  }
+
+  .mapa{
+    
+    width: 750px;
+    height: 625px;
+    margin-left: 350px;
+    border-radius: 1000px;
+    margin-top: 3%;
+
+  }
+
+  footer{
+    position: absolute;
+  }
+
+
+  .redes h4{
+    color: #FFFFFFCC;
+    font-size: 15px;
+    width: 200px;
+  }
+
+  .dev p{
+    color: #ffffff34;
+    display: flex;
+    text-align: center;
+    margin-left: 225%;
+    margin-top: -10%;
+
+  }
+
+  .endereco p{
+    color: #FFFFFF99;
+    display: flex;
+    text-align: center;
+    margin-left: 300%;
+    height: 50px;
+    width: 300px;
+    margin-top: -23%;
+  }
+
+  .logo2{
+    margin-left: 450%;
+    margin-top: -25%;
+  }
