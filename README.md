@@ -8,6 +8,8 @@
 <p> Inicialmente foi nos dado um Briefing do cliente para darmos inicio ao desenvolvimento, seguindo o brienfing dei inicio ao prototipo de baixa fidelidade proporcionando ao meu cliente a ideia inicial
 de posições dos itens, textos, botões e assim podendo fazer alterações caso não fosse do gosto do mesmo.</p>
 
+![Prototipos_de_baixa_e_alta_fidelidade_page-0001](https://github.com/PietraVaezZ/Site-Game/assets/108768197/cf8d40aa-70ba-4e21-8748-3ce02567682a)
+
 
 <p> Após finalizado fui finalizar a ideia do Design de Interface com cores então saiu o prototipo de alta fidelidade. </p>
 
@@ -24,6 +26,8 @@ de posições dos itens, textos, botões e assim podendo fazer alterações caso
     <li>Javascript</li>
     <li>Jquery</li>
     <li>Ux|Ui (para os prototipos)</li>
+    <li>Git</li>
+    <li>GitHub</li>
 </ul>
 
 <p>No projeto também foi desenvolvido uma tela de login e uma de Cadastro com algumas funções para validação, alerta e botôes.</p>
